@@ -1,0 +1,66 @@
+Predictor,Transect,Threshold,Intercept,Slope,Lineage,Data Source
+Tave_sm_Avg,Beartooths,13.85,1384.09,-99.93,Central Rockies,P. Billman
+Tave_sm_Avg,Elko,17.42,2107.66,-121.00,Central Rockies,P. Billman
+Tave_sm_Avg,Fort Collins,14.55,861.75,-59.22,Central Rockies,P. Billman
+Tave_sm_Avg,Medicine Bow,14.80,1587.24,-107.24,Central Rockies,P. Billman
+Tave_sm_Avg,Star Valley,15.71,4604.23,-293.09,Central Rockies,P. Billman
+Tave_sm_Avg,BH1E,13.54,2443.94,-180.49,Northern Rockies,Billman et al. 2021
+Tave_sm_Avg,BH1W,13.97,11.69,-0.84,Northern Rockies,Billman et al. 2022
+Tave_sm_Avg,BH2W,14.57,25.08,-1.72,Northern Rockies,Billman et al. 2023
+Tave_sm_Avg,BH3W,15.87,1380.75,-87.01,Northern Rockies,Billman et al. 2024
+Tave_sm_Avg,BH4W,16.00,31.61,-1.98,Northern Rockies,Billman et al. 2025
+Tave_sm_Avg,BH5E,12.83,80.07,-6.24,Northern Rockies,Billman et al. 2026
+Tave_sm_Avg,BH5W,14.23,1336.87,-93.95,Northern Rockies,Billman et al. 2027
+Tave_sm_Avg,BH6W,16.54,524.65,-31.72,Northern Rockies,Billman et al. 2028
+Tave_sm_Avg,BH7W,17.13,4985.10,-291.01,Northern Rockies,Billman et al. 2029
+Tave_sm_Avg,BH8E,15.30,1296.17,-84.71,Northern Rockies,Billman et al. 2030
+Tave_sm_Avg,BH8W,17.75,26.00,-1.46,Northern Rockies,Billman et al. 2031
+Tave_sm_Avg,IP1E,15.32,13.76,-0.90,Northern Rockies,Billman et al. 2032
+Tave_sm_Avg,IP2E,15.09,8.96,-0.59,Northern Rockies,Billman et al. 2033
+Tave_sm_Avg,IP3W,13.76,28.22,-2.05,Northern Rockies,Billman et al. 2034
+Tave_sm_Avg,IP4W,14.33,22.01,-1.54,Northern Rockies,Billman et al. 2035
+Tave_sm_Avg,IP9E,17.26,1866.01,-108.11,Northern Rockies,Billman et al. 2036
+Tave_sm_Avg,IP9W,14.69,1057.76,-71.99,Northern Rockies,Billman et al. 2037
+Tave_sm_Avg,LR1W,16.46,5.98,-0.36,Northern Rockies,Billman et al. 2038
+Tave_sm_Avg,LR2E,13.28,41.99,-3.16,Northern Rockies,Billman et al. 2039
+Tave_sm_Avg,LR4E,13.80,19.34,-1.40,Northern Rockies,Billman et al. 2040
+Tave_sm_Avg,LR6E,14.54,32.77,-2.25,Northern Rockies,Billman et al. 2041
+Tave_sm_Avg,LR7E,14.46,27.42,-1.90,Northern Rockies,Billman et al. 2042
+Tave_sm_Avg,LR7W,16.72,57.72,-3.45,Northern Rockies,Billman et al. 2043
+Tave_sm_Avg,LR8W,16.57,46.61,-2.81,Northern Rockies,Billman et al. 2044
+Tave_sm_Avg,LR9E,16.08,32.35,-2.01,Northern Rockies,Billman et al. 2045
+Tave_sm_Avg,LR9W,14.89,37.20,-2.50,Northern Rockies,Billman et al. 2046
+Tave_sm_Avg,TR1E,13.17,8563.10,-650.20,Northern Rockies,Billman et al. 2047
+Tave_sm_Avg,TR1W,14.18,19.28,-1.36,Northern Rockies,Billman et al. 2048
+Tave_sm_Avg,TR3E,12.07,8.69,-0.72,Northern Rockies,Billman et al. 2049
+Tave_sm_Avg,TR3W,13.85,13.19,-0.95,Northern Rockies,Billman et al. 2050
+Tave_sm_Avg,TR6E,11.80,3.74,-0.32,Northern Rockies,Billman et al. 2051
+Tave_sm_Avg,TR6W,12.54,27.78,-2.21,Northern Rockies,Billman et al. 2052
+Tave_sm_Avg,TR7E,12.88,6.08,-0.47,Northern Rockies,Billman et al. 2053
+Tave_sm_Avg,TR7W,15.56,37.73,-2.42,Northern Rockies,Billman et al. 2054
+Tave_sm_Avg,TR8E,13.14,76.03,-5.78,Northern Rockies,Billman et al. 2055
+Tave_sm_Avg,TR8W,13.78,21.15,-1.53,Northern Rockies,Billman et al. 2056
+Tave_sm_Avg,Columbia Plateau,16.63,15.56,-0.94,Sierra Nevada,Millar et al. 2018
+Tave_sm_Avg,Great Basin,17.67,10.64,-0.60,Sierra Nevada,Millar et al. 2019
+Tave_sm_Avg,Modoc Plateau,16.47,12.19,-0.74,Sierra Nevada,Millar et al. 2020
+Tave_sm_Avg,Sierra Nevada,16.19,25.05,-1.55,Sierra Nevada,Millar et al. 2021
+Tave_sm_Avg,Border,13.86,20.56,-1.48,Southern Rockies,P. Billman
+Tave_sm_Avg,Boulder,12.42,3896.30,-313.72,Southern Rockies,P. Billman
+Tave_sm_Avg,Creede,13.06,326.60,-25.02,Southern Rockies,P. Billman
+Tave_sm_Avg,Crestone,13.73,225.17,-16.39,Southern Rockies,P. Billman
+Tave_sm_Avg,Cumberland,14.39,679.47,-47.23,Southern Rockies,P. Billman
+Tave_sm_Avg,Guanella Pass,12.32,4196.73,-340.64,Southern Rockies,P. Billman
+Tave_sm_Avg,Gunnison,13.75,885.04,-64.36,Southern Rockies,P. Billman
+Tave_sm_Avg,Independence Pass,11.86,551.46,-46.50,Southern Rockies,P. Billman
+Tave_sm_Avg,Ivanhoe,13.25,362.08,-27.32,Southern Rockies,P. Billman
+Tave_sm_Avg,Jasper,13.51,24.00,-1.78,Southern Rockies,P. Billman
+Tave_sm_Avg,La Sal Mtns,14.12,629.35,-44.57,Southern Rockies,P. Billman
+Tave_sm_Avg,Lake City,11.57,14.69,-1.27,Southern Rockies,P. Billman
+Tave_sm_Avg,Lobo,13.40,19.93,-1.49,Southern Rockies,P. Billman
+Tave_sm_Avg,Maroon Bells,14.40,634.38,-44.06,Southern Rockies,P. Billman
+Tave_sm_Avg,Mount Democrat,13.90,10.14,-0.73,Southern Rockies,P. Billman
+Tave_sm_Avg,Pikes Peak,11.55,2536.82,-219.65,Southern Rockies,P. Billman
+Tave_sm_Avg,Pitkin,13.27,635.04,-47.86,Southern Rockies,P. Billman
+Tave_sm_Avg,Silverthorne,12.46,1603.76,-128.71,Southern Rockies,P. Billman
+Tave_sm_Avg,Slumgullion,13.64,12545.18,-919.72,Southern Rockies,P. Billman
+Tave_sm_Avg,Taos,13.33,1127.99,-84.63,Southern Rockies,P. Billman

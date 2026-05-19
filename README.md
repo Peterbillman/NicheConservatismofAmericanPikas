@@ -4,6 +4,8 @@
 
 This repository contains the data files used in the analyses described in the manuscript. Two processed files are included; one shapefile folder of approximate lineage boundaries is included; and one climate raster must be downloaded by users separately (see below).
 
+R packages used include ape, phytools, geiger, and OUwie. 
+
 ---
 
 ## Files in this repository
